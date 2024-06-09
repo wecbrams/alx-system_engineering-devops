@@ -5,27 +5,8 @@ DevOpsSysAdmin
 
 -   By Sylvain Kalache
 -   Weight: 1
--   Project over - took place from
 
-    Apr 25, 2022
-
-    to
-
-    May 2, 2022
-
-    - you're done with 100% of tasks.
--   Manual QA review was done on
-
-    May 14, 2022 9:15 AM
-
-#### In a nutshell...
-
--   **Manual QA review:** 0.0/13 mandatory & 0.0/1 optional
--   **Altogether:**  **0.0%**
-    -   Mandatory: 0.0%
-    -   Optional: 0.0%
-    -   Calculation:  0.0% + (0.0% * 0.0%)  == **0.0%**
-
+    
 ### Concepts
 
 *For this project, we expect you to look at this concept:*
@@ -101,7 +82,7 @@ Please, remember that these blogs must be written in English to further your tec
 
 #### Add URLs here:
 
-1.  <https://docs.google.com/document/d/1Foq7OSh1XHp5Cqxq12GEZEHGOjURQQT_n4HqOH82Ydg/edit?usp=sharing>
+1.  <https://docs.google.com/document/d/1GdEVNKPTWRjCqKPk5ORckwv1KhpBbJGFvWBR7UrSSZU/edit?usp=sharing>
 
 **Repo:**
 
@@ -122,7 +103,7 @@ Please, remember that these blogs must be written in English to further your tec
 
 #### Add URLs here:
 
-1.  <https://docs.google.com/document/d/1Foq7OSh1XHp5Cqxq12GEZEHGOjURQQT_n4HqOH82Ydg/edit?usp=sharing>
+1.  <https://docs.google.com/document/d/1GdEVNKPTWRjCqKPk5ORckwv1KhpBbJGFvWBR7UrSSZU/edit?usp=sharing>
 
 **Repo:**
 
